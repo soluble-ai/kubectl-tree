@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	cloud.google.com/go v0.43.0 // indirect
-	github.com/emicklei/go-restful v2.9.6+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/evanphx/json-patch v4.5.0+incompatible // indirect
 	github.com/fatih/color v1.7.0
 	github.com/googleapis/gnostic v0.3.0 // indirect
